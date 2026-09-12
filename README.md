@@ -1,16 +1,35 @@
-## Hi there 👋
+# Lhakpa Dorji
 
-<!--
-**Lhakpa-Dorji/Lhakpa-Dorji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Next-Gen Telecom Enthusiast | Computer Systems Engineering Student | Networking | IoT | Embedded Systems | Robotics
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Systems Engineering student with interests in telecommunications, networking, IoT, embedded systems, robotics and autonomous systems.
+
+## Engineering Interests
+
+- Telecommunications
+- Networking
+- Internet of Things (IoT)
+- Embedded Systems
+- Robotics
+- ESP32
+- ROS 2
+- LiDAR and Sensor Integration
+- Autonomous Systems
+
+## Current Project
+
+### Unmanned Ground Vehicle (UGV)
+
+Currently developing a tracked Unmanned Ground Vehicle integrating ESP32, VESC motor controllers, LiDAR, proximity sensors, ultrasonic sensors, encoders, IMU and ROS 2.
+
+## Featured Project
+
+[Unmanned Ground Vehicle](https://github.com/Lhakpa-Dorji/Unmanned-Ground-Vehicle)
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/lhakpa-dorji-820515255/)
+
+[GitHub](https://github.com/Lhakpa-Dorji)
